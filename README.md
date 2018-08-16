@@ -9,7 +9,7 @@ you require a browser preferably chrome to run this site.Clone this repository  
 ## BUILT WITH
 - html
 - bootstrap
-
+- angular6
 ## LINK TO LIVE SITE
 https://billowbashir.github.io/quotes/
 ## CONTACT DETAILS
