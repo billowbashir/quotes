@@ -1,4 +1,4 @@
-.quotes{
+/* .quotes{
   text-align: left;
 }
 .wisdom{
@@ -7,4 +7,9 @@
 .author{
   font-style: italic;
   color: red;
+} */
+.jumbotron {
+  background-color: DodgerBlue ;
+  margin-right: -100px;
+  margin-left:  -100px;
 }

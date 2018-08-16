@@ -13,7 +13,15 @@ export class QuoteFormComponent implements OnInit {
 
   submitQuote() {
     this.addQuote.emit(this.newQuote);
+    // this.newQuote.reset();
   }
+//   onSubmit() {
+//   if (this.myform.valid) {
+//     console.log('Form Submitted!');
+//     this.myform.reset();
+//   }
+// }
+
 
   constructor() { }
 
